@@ -26,3 +26,8 @@ const url = "https://bhuneshwar.com/bhuneshwar%20kumar"
 console.log(url.replace('%20','-'))
 
 console.log(url.includes('bhuneshwar'))
+
+// to check list of string
+
+//const amb = new String('Bhuneshwar ')
+//console.log(amb)
